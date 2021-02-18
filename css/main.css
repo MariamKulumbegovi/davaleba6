@@ -1,0 +1,171 @@
+li {
+	display: inline-block;
+}
+.li1 {
+	margin:40px 0px 0px 139px;
+	font-size: 12px;
+	position: absolute;
+	top: 21;
+	left: 139;
+	color: #FFFFFF;
+}
+.li2 {
+	margin:40px 0px 0px 665px;
+	font-size: 12px;
+	position: absolute;
+	top:21;
+	left: 451;
+	color: #FFFFFF;
+}
+.li3 {
+	margin:40px 0px 0px 750px;
+	font-size: 12px;
+	position: absolute;
+	color: #FFFFFF;
+
+}
+.li4 {
+	margin:40px 0px 0px 856px;
+	font-size: 12px;
+	position: absolute;
+	color: #FFFFFF;
+}
+.li5 {
+	margin:40px 0px 0px 980px;
+	font-size: 12px;
+	position: absolute;
+	color: #FFFFFF;
+}
+.li6 {
+	margin:40px 0px 0px 1088px;
+	font-size: 12px;
+	position: absolute;
+	color: #FFFFFF;
+}
+.li7 {
+	margin:40px 0px 0px 1172px;
+	font-size: 12px;
+	position: absolute;
+	color: #FFFFFF;
+}
+.box1 {
+	display: inline-block;
+	width: 495px;
+	margin:188px 0px 0px 139px;
+	position: absolute;
+	color: #FFFFFF;
+}
+.satauri {
+	font-size: 62px;
+}
+.articlecontent {
+	width: 352px;
+	height: 64px;
+	font-size: 14px;
+}
+.sticky {
+	position: sticky;
+	font-size: 20px;
+	margin:578px 0px 0px 139px;
+	position: absolute;
+	color: #FFFFFF; 
+}
+.fixed1 {
+	position: fixed;
+	top: 537px;
+	right: 190px;
+	background-color:white;
+	width: 51px;
+	height: 51px;
+	position: absolute;
+}
+.fixed2 {
+	position: fixed;
+	top: 537px;
+	right: 139px;
+	background-color:#5863F8;
+	width: 51px;
+	height: 51px;
+	position: absolute;
+}
+.backgroundwrapper {
+	position:relative;
+	top: -48px;
+	left: -8px;
+	width: 1519px;
+	height: 662;
+}
+.backgroundpic {
+	width: 100%;
+}
+.box2 {
+	display: inline-block;
+	width:445px;
+	margin-left:  125px;
+	vertical-align: top;
+}
+.satauri2 {
+	font-size:42px;
+
+}
+.detailedinfo {
+	font-size: 16px;
+	margin-top: 38px;
+	margin-bottom: 32px;
+}
+
+.moreinfo {
+	margin-top: 45px;
+	background-color: #5863F8;
+	width: 185px; 
+	height: 50px;
+	text-align: center;
+
+}
+.moreinfo:first-child {
+	font-size: 14px;
+	color: #FFFFFF;
+}
+.box3 {
+	display: inline-block;
+	width: 540px;
+	height: 500px;
+	margin-left: 120px;
+}
+.img1 {
+	margin-right: 8px;
+}
+.img2 {
+	margin-top:10px;
+}
+.box4 {
+	margin-top: 54px;
+	margin:0px -8px -6px -8px;
+	height: 303px;
+	background-color: #121212;
+
+}
+.satauri3 {
+	margin:54px 0px 0px 139px;
+	font-size: 24px;
+	color: #FFFFFF;
+}
+.articlecontent1 {
+	font-size: 14px;
+	color: #B1B1B1;
+	width: 825px;
+	margin:25px 0px 0px 139px;
+}
+.icons {
+	margin:60px 0px 0px 139px;
+}
+.ticon {
+	margin:0px 17px 0px 17px;
+}
+.rights {
+	margin:10px 0px 30px 139px;
+	color: #B1B1B1;
+}
+#designer {
+	color: #5863F8;
+}
