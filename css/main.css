@@ -64,6 +64,7 @@ li {
 	width: 580px;
 	font-size: 62px;
 	font-family:'Poppins-ExtraBold';
+	position: sticky;
 }
 .articlecontent {
 	width: 352px;
@@ -80,7 +81,7 @@ li {
 }
 #sticky {
 	position: sticky;
-
+	top: 0;
 }
 .fixed1 {
 	top: 537px;
